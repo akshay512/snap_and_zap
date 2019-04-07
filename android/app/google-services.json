@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "219083322571",
+    "firebase_url": "https://snap-and-zap.firebaseio.com",
+    "project_id": "snap-and-zap",
+    "storage_bucket": "snap-and-zap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219083322571:android:f1bfd936ce66c6ca",
+        "android_client_info": {
+          "package_name": "com.aksapp.snap_and_zap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219083322571-nbfdp48ouj0568lkclfhu87bt47hc5cu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aksapp.snap_and_zap",
+            "certificate_hash": "3893ea294f108d94e4b611394d828fdf06cab042"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUpnG70ZZzG70ckXLOnyt2f-4caFK4obw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219083322571-6b5nfrrh2erab6vlgkj989sau4ij5bce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
